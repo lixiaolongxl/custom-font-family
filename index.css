@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'myFirstFont';
+    src: url('./龚帆免费体.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'myScendFont';
+    src: url('./演示夏行楷.ttf') format('truetype');
+}
+
+p {
+    margin: 0;
+}
+
+.content {
+    font-family: 'myFirstFont';
+}
+
+.fintclass {
+    font-family: 'myScendFont';
+    font-size: 20px;
+}
